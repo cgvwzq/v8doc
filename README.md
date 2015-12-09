@@ -1,4 +1,4 @@
-# V8 docs
+# V8 doc
 
 I will try to organize a bunch of information and resources that helps ME to ~~understand~~ start with V8.
 
